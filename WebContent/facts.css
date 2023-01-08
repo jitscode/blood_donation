@@ -1,0 +1,27 @@
+.banner .process {
+    color: #f1f1f1; 
+    width: 100%; 
+    padding: 20px; 
+  }
+
+  .process p {
+    list-style:disc outside none;
+    display:list-item; 
+   margin: 10px auto;
+   font-weight: 80;
+   font-size: 20px;
+  }
+
+  .process h1 {
+      font-weight: 10000;
+      font-size: 50px;
+  }
+
+  .process h3 {
+      font-size: 30px;
+  }
+
+.process images {
+    float: right;
+    margin: 50;
+}

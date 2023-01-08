@@ -1,0 +1,26 @@
+body{
+	font-family:sans-serif;
+	font-size:30px;
+}
+h2{
+	text-align:center;
+	color:white;
+}
+table{
+	width:80%;
+	 margin-left: auto;
+    margin-right: auto;
+	color:white;
+}
+table,th,td{
+	border:2px solid white;
+	font-style: normal;
+    color: aliceblue;
+    width:150px;
+    text-align:center;
+    padding:3px
+}
+th,td{
+	text-align:center;
+	padding:10px;
+}
